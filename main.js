@@ -1,4 +1,4 @@
-// Random Quiz
+// Random Quiz by Mr. V
 
 // Event Listener (Mark Quiz)
 document.getElementById('mark-quiz').addEventListener('click', markQuiz);
